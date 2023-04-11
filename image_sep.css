@@ -1,0 +1,26 @@
+body{
+    background-image: url("1336125.webp");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+    text-align: center;
+    margin-top: 150px;
+}
+h3{
+    color:black;
+    background-color: cornsilk;
+    width: fit-content;
+    padding: 20px;
+    margin-left: 320px;
+    border-radius: 5px;
+}
+img{
+    height: 400px;
+     width: 400px;
+    border-radius: 8px;
+    transition: width 1s, height 1s;
+}
+img:hover{
+    width: 430px;
+    height: 430px;
+}
